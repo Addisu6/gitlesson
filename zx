@@ -1,0 +1,14 @@
+This is the first html page
+This is second line on the first page of html
+This is third line on this page
+I want to modify this two
+
+Git note 
+git init-- initializing your folder/directory to git
+any change will be tracked
+git status--- allow us to chack the status of the folder/directory
+git add --> copies your file to the staging area
+git add . adds all the files to the stage area
+git commit -- to save file in respository
+git commit -m 'first commit'
+git checkout commit_id
